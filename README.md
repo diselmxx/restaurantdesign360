@@ -1,2 +1,1 @@
-# restaurantdesign360
-Created with CodeSandbox
+# Gridsome starter for codesandbox
